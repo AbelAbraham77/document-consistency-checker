@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "metrics": {
+    "employee_count": ["number of employees", "employee count", "total employees", "employees", "headcount", "head count", "no. of employees", "no of employees"],
+    "shares": ["shares", "number of shares", "share count", "no. of shares"],
+    "shares_outstanding": ["outstanding shares", "shares outstanding", "number of outstanding shares", "total shares outstanding"],
+    "revenue": ["revenue", "total revenue"],
+    "revenue_from_operations": ["revenue from operations"],
+    "total_income": ["total income"],
+    "hospital_count": ["hospital count", "hospitals"],
+    "licensed_bed_count": ["licensed bed", "licensed beds", "licensed bed count"]
+  }
+}

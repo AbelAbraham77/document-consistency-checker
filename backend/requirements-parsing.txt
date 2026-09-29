@@ -1,0 +1,5 @@
+# Install for the standalone PDF parser; the HTTP API does not require it.
+-r requirements.txt
+docling>=2.130,<3.0
+pypdfium2>=4.30,!=4.30.1,<6.0
+onnxruntime>=1.20,<2.0

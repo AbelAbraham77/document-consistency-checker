@@ -1,0 +1,11 @@
+{
+  "chunk_id": "example-employees",
+  "page_start": 7,
+  "page_end": 7,
+  "section": "Employees",
+  "block_types": ["paragraph"],
+  "text": "As of March 31, 2025, the company employed 300 people globally.",
+  "source_block_ids": ["example-block-1"],
+  "estimated_token_count": 15,
+  "metadata": {}
+}
